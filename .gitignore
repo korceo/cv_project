@@ -208,4 +208,5 @@ __marimo__/
 
 datasets/
 cv_env/
-.idea/
+/.idea/
+/cv_env/
